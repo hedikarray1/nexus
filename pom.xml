@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ic</groupId>
   <artifactId>test-nexus</artifactId>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.9999999999999-SNAPSHOT</version>
   <name>test-nexus</name>
   <description>test-nexus</description>
   
